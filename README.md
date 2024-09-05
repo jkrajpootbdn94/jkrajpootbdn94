@@ -45,7 +45,7 @@ I'm a software developer currently working at [Webkul](https://webkul.com/). My 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jkrajpootbdn94&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical)
 
 ## 📫 How to Reach Me
-
+- [LinkedIn](https://www.linkedin.com/in/jugendra-kumar-a19066189?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [Email](mailto:jkrajpootbdn94@gmail.com)
 
 ## 🤝 Let's Connect
