@@ -46,7 +46,7 @@ I'm a software developer currently working at [Webkul](https://webkul.com/). My 
 
 ## 📫 How to Reach Me
 
-- [Email](jkrajpootbdn94@gmail.com)
+- [Email](mailto:jkrajpootbdn94@gmail.com)
 
 ## 🤝 Let's Connect
 
