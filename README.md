@@ -1,4 +1,4 @@
-# Hi there, I'm [Jugendra Kumar] 👋
+# Hi there, I'm Jugendra Kumar 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer with experience in both front-end and back-end technologies. Here's a bit more about me and the skills I bring to the table.
 
@@ -28,16 +28,16 @@ I'm a software developer currently working at [Webkul](https://webkul.com/). My 
 ### [Webkul](https://www.webkul.com/)
 *Position:* Software Developer  
 *Duration:* Since 2022-03-15
-*Responsibilities:* [I am a software developer and currently working on barcodesInc project]
+*Responsibilities:* I am a software developer and currently working on barcodesInc project
 
 ### [Accevate Technology](https://www.accevate.com/)
-*Position:* [Software Developer]  
-*Duration:* [2020-10-07 to 2022-03-12]  
-*Responsibilities:* [I was a associate software developer]
+*Position:* Software Developer  
+*Duration:* 2020-10-07 to 2022-03-12  
+*Responsibilities:* I was a associate software developer
 
 ## 🌱 What I'm Currently Learning
 
-- [Currently I am learning laravel framwork]
+- Currently I am learning laravel framwork
 
 ## 📈 GitHub Stats
 
