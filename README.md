@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi there, I'm [Jugendra Kumar] 👋
 
-<!--
-**jkrajpootbdn94/jkrajpootbdn94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate software developer with experience in both front-end and back-end technologies. Here's a bit more about me and the skills I bring to the table.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a software developer currently working at [Webkul](https://webkul.com/). My journey in technology began at [Accevate Technology](https://accevate.in/), and I have accumulated 4.7 months of experience in the industry. I thrive on solving complex problems and continuously improving my skill set.
+
+## 🛠️ Technologies & Tools
+
+### Front-End
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **jQuery**
+- **Bootstrap**
+- **Backbone.js**
+
+### Back-End
+- **PHP**
+
+### PHP Frameworks
+- **Symfony**
+- **Laravel**
+
+## 💼 Experience
+
+### [Webkul](https://www.webkul.com/)
+*Position:* Software Developer  
+*Duration:* Since 2022-03-15
+*Responsibilities:* [I am a software developer and currently working on barcodesInc project]
+
+### [Accevate Technology](https://www.accevate.com/)
+*Position:* [Software Developer]  
+*Duration:* [2020-10-07 to 2022-03-12]  
+*Responsibilities:* [I was a associate software developer]
+
+## 🌱 What I'm Currently Learning
+
+- [Currently I am learning laravel framwork]
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jkrajpootbdn94&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical)
+
+## 📫 How to Reach Me
+
+- [Email](jkrajpootbdn94@gmail.com)
+
+## 🤝 Let's Connect
+
+I'm always open to discussing new projects, collaborations, or opportunities. Feel free to reach out if you want to chat!
+
+---
+
+Thank you for visiting my GitHub profile! 🙌
