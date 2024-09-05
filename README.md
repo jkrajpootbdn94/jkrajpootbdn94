@@ -30,6 +30,7 @@ I'm a software developer currently working at [Webkul](https://webkul.com/). My 
 *Duration:* Since 2022-03-15
 *Responsibilities:* I am a software developer and currently working on barcodesInc project
 
+
 ### [Accevate Technology](https://www.accevate.com/)
 *Position:* Software Developer  
 *Duration:* 2020-10-07 to 2022-03-12  
