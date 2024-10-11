@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with experienc
 
 ## 🚀 About Me
 
-I'm a software developer currently working at [Webkul](https://webkul.com/). My journey in technology began at [Accevate Technology](https://accevate.in/), and I have accumulated 4.7 months of experience in the industry. I thrive on solving complex problems and continuously improving my skill set.
+I'm a software developer currently working at [Webkul](https://webkul.com/). My journey in technology began at [Accevate Technology](https://accevate.in/), and I have accumulated 5 Years of experience in the industry. I thrive on solving complex problems and continuously improving my skill set.
 
 ## 🛠️ Technologies & Tools
 
