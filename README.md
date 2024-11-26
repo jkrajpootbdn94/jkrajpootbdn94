@@ -27,7 +27,7 @@ I'm a software developer currently working at [Webkul](https://webkul.com/). My 
 
 ### [Webkul](https://www.webkul.com/)
 *Position:* Software Developer  
-*Duration:* Since 2022-03-15
+*Duration:* Since 2022-03-15  
 *Responsibilities:* I am a software developer and currently working on barcodesInc project
 
 
